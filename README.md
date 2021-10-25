@@ -1,0 +1,1 @@
+Some exercises from the rust lang book
